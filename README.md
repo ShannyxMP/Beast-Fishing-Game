@@ -73,9 +73,11 @@ I hope you enjoy this mini-game. It was quite a learning curve for me. Any tips 
 
 This game contains visual effects that may trigger seizures or other adverse reactions in individuals with photosensitive epilepsy. Player discretion is advised.
 
-1. Clone the repository to your local operating machine by entering the following in your terminal (command-line): `https://github.com/ShannyxMP/Beast-Fishing.git`
-2. Rename the extension of the compressed folder to `.love`. For example: **Beast-Fishing-Game-master.zip** => **Beast-Fishing-Game-master.love**.  
-3. From here, you can play the game as a .love file. However, you will need to have installed LÖVE 2D on your operating system which you can get [here](https://love2d.org/).
+1. Clone the repository to your local operating machine by entering the following in your terminal (command-line): `git clone https://github.com/ShannyxMP/Beast-Fishing.git`
+2. Navigate into the folder containing the game files.
+3. Highlight all files and folders within the game folder and create a compressed folder.
+4. Rename the extension of the compressed folder to `.love`. For example: **Beast-Fishing.zip** => **Beast-Fishing.love**.  
+5. You can now play the game as a .love file. To do so, you will need to have LÖVE 2D installed on your operating system which you can get [here](https://love2d.org/). Once installed, you can run the .love file by double-clicking it or using the command-line and navigating to the directory containing the .love file, then running the command: `love Beast-Fishing-Game.love`
 
 ## Author
 
