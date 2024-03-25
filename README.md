@@ -86,4 +86,3 @@ COPYRIGHT 2023-2024 ShannyxMP (formerly ShannyMP)
 ## Acknowledgements
 
 Character design was heavily inspired by the **great** [Todo Asano](https://dribbble.com/Todo_Asano).
-
