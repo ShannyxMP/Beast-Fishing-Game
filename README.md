@@ -70,7 +70,7 @@ I hope you enjoy this mini-game. It was quite a learning curve for me. Any tips 
 ## Getting started
 
 1. Clone the repository to your local operating machine by entering the following in your terminal (command-line): `https://github.com/ShannyxMP/Beast-Fishing.git`
-2. Rename the extension of the compressed folder to **.love** (example: Beast-Fishing.zip => Beast-Fishing.love).   
+2. Rename the extension of the compressed folder to `.love`. For example: **Beast-Fishing.zip** => **Beast-Fishing.love**.  
 3. From here, you can play the game as a .love file. However, you will need to have installed LÖVE 2D on your operating system which you can get [here](https://love2d.org/).
 
 ## Author
