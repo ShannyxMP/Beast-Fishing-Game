@@ -10,6 +10,7 @@
 - [Getting started](#getting-started)
 - [Author](#author)
 - [Acknowledgements](#acknowledgements)
+- [Task List](#task-list)
 
 ## Overview
 
@@ -88,3 +89,7 @@ COPYRIGHT 2023-2024 ShannyxMP (formerly ShannyMP)
 ## Acknowledgements
 
 Character design was heavily inspired by the **great** [Todo Asano](https://dribbble.com/Todo_Asano).
+
+
+## Task List
+- [ ] Fix keypress bug
